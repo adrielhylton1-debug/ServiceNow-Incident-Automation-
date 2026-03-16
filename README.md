@@ -9,13 +9,19 @@ Automating Servicenow Incident tickets using Powershell
 ## 🪜 Steps Performed (with screenshots)
 
 ### 1) Prepared the PowerShell script (credentials, headers, JSON payload)
-![PowerShell script setup](images/Ticket%20Automation%20%231.png)
+![PowerShell script setup](images/ticket-automation-01-script.png)
+
+---
 
 ### 2) Executed the script and captured the created incident number
-![Incident number returned](images/Ticket%20Automation%20%231.5.png)
+![Incident number returned](images/ticket-automation-02-output.png)
+
+---
 
 ### 3) Verified the incident was created in ServiceNow (Incidents list)
-![Incident appears in list](images/Ticket%20Automation%20%232.png)
+![Incident appears in list](images/ticket-automation-03-list.png)
+
+---
 
 ### 4) Confirmed the incident record fields were populated from the JSON body
-![Incident record populated](images/Ticket%20Automation%20%233.png)
+![Incident record populated](images/ticket-automation-04-record.png)
