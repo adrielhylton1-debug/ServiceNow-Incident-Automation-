@@ -1,8 +1,29 @@
-# ServiceNow-Incident-Automation-
 Automating Servicenow Incident tickets using Powershell
 # ServiceNow Incident Automation (PowerShell REST API)
 
 **Walkthrough (Loom):** PASTE_LOOM_LINK_HERE
+
+---
+
+## 🧩 Objective
+Automate the creation of ServiceNow incident tickets using **PowerShell** and the **ServiceNow REST API**, eliminating manual ticket entry and demonstrating scripting skills relevant to IT support and operations roles.
+
+---
+
+## 🧠 Skills Practiced
+- Writing and executing PowerShell scripts  
+- Authenticating to REST APIs using Basic Auth  
+- Constructing and sending JSON payloads via HTTP POST  
+- Parsing API responses to extract incident numbers  
+- Validating automated workflows in ServiceNow  
+
+---
+
+## 🧰 Tools Used
+- PowerShell  
+- ServiceNow Developer Instance  
+- ServiceNow REST API (Table API)  
+- JSON  
 
 ---
 
@@ -25,3 +46,8 @@ Automating Servicenow Incident tickets using Powershell
 
 ### 4) Confirmed the incident record fields were populated from the JSON body
 ![Incident record populated](images/ticket-automation-04-record.png)
+
+---
+
+## ✅ Outcome
+Successfully automated incident creation in ServiceNow using PowerShell and REST API calls, demonstrating the ability to streamline repetitive Help Desk tasks through scripting.
