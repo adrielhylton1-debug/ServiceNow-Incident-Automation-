@@ -1,6 +1,6 @@
 # ServiceNow Incident Automation (PowerShell REST API)
 
-**Walkthrough (Loom):** [PASTE_LOOM_LINK_HERE](https://www.loom.com/share/ae2b5d1adb514d0193473b73d3bc97f8)
+**Walkthrough (Loom):** (https://www.loom.com/share/ae2b5d1adb514d0193473b73d3bc97f8)
 
 ---
 
